@@ -5,17 +5,17 @@
 
 <br>
 
-## 👨‍💻 关于我
+# 👻 关于我
 
-- 🔭 目前专注于 **手写系列项目** 、ai agent 开发、 **开源开发**
-- 🌱 正在深入学习 **ai-agent**、**分布式系统** 、架构设计
+- 🎃 目前专注于 **手写系列项目** 、ai agent 开发、 **开源开发**
+- 📚 正在深入学习 **ai-agent**、**分布式系统** 、**架构设计**
 - 💡 手写各种技术框架帮助理解原理（动手实现更加深刻）
-- 🎯 代表项目: RPC框架、 手写消息队列、spring-mvc-excel 组件、harness-agent-flow
-- ⚡ 座右铭: **无限进步**
+- ✨ 代表项目: RPC框架、 手写消息队列、spring-mvc-excel 组件、harness-agent-flow
+- 📖 座右铭: **无限进步**
 
 <br>
 
-## 🛠️ 技术栈
+# 🤓 技术栈
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
