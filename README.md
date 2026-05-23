@@ -48,8 +48,6 @@
 
 
 
-## 🐍 贪吃蛇吃掉我的贡献
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/dd-xiaozhi/dd-xiaozhi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
