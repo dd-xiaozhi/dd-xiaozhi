@@ -3,6 +3,8 @@
 </div>
 </div>
 
+<br>
+
 ## 👨‍💻 关于我
 
 - 🔭 目前专注于 **手写系列项目** 、ai agent 开发、 **开源开发**
@@ -11,7 +13,7 @@
 - 🎯 代表项目: RPC框架、 手写消息队列、spring-mvc-excel 组件、harness-agent-flow
 - ⚡ 座右铭: **无限进步**
 
-
+<br>
 
 ## 🛠️ 技术栈
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -46,8 +48,8 @@
 
 
 
-
-
+<br>
+</div>
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/dd-xiaozhi/dd-xiaozhi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
